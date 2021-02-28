@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
-<h3 align="center">I'm a full-stack developer from India, specializing in developing SPAs with React/Vue and RESTful/GraphQL APIs in Node.js</h3>
+<h1 align="center">Hey there 👋, I'm Amandeep Singh</h1>
+<h3 align="center">I'm software developer from India. I specialize in development of SPAs with React/Vue and RESTful/GraphQL APIs in Node.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
 
-- 🌱 I’m currently learning **Python for Django & Flask.**
+- 🌱 I’m currently learning **Python** for **Django** & **Flask**.
 
-- 👨‍💻 All of my projects are available at [amand33p.github.io](amand33p.github.io)
+- 👨‍💻 All of my projects are available at [amand33p.github.io](https://amand33p.github.io)
 
 - 💬 Ask me about **React & Node.js - in general JavaScript questions**
 
