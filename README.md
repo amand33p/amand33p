@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [amand33p.github.io](amand33p.github.io)
 
-- 💬 Ask me about **React & Node.js, in general JavaScript problems**
+- 💬 Ask me about **React & Node.js - in general JavaScript questions**
 
 - 📫 How to reach me **amandeep96x@gmail.com**
 
