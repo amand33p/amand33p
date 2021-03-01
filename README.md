@@ -1,11 +1,11 @@
-<h1 align="center">Hey there 👋, I'm Amandeep Singh</h1>
-<h3 align="center">I'm software developer from India. I specialize in development of SPAs with React/Vue and RESTful/GraphQL APIs in Node.js</h3>
+<h2>Hey there 👋, I'm Amandeep Singh</h2>
+<h5>I'm software developer from India. I specialize in development of SPAs with React/Vue and RESTful/GraphQL APIs in Node.js</h5>
 
-- 🌱 I’m currently learning **Python** for **Django** & **Flask**.
+- 🌱 I’m currently learning to improve Python for Django & Flask.
 
 - 👨‍💻 All of my projects are available at [amand33p.github.io - my portfolio site](https://amand33p.github.io).
 
-- 💬 Ask me about **React**, **Node.js** & in general, about **JavaScript ecosystem**.
+- 💬 Ask me about React, Node.js & in general, about JavaScript ecosystem.
 
 - 📫 How to reach me: **amandeep96x@gmail.com**
 
