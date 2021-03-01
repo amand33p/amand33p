@@ -1,7 +1,6 @@
 <h2>Hey there 👋, I'm Amandeep Singh</h2>
 <h3>I'm software developer from India, currently specializing in development of SPAs with React/Vue.js and RESTful/GraphQL APIs in Node.js</h3>
 <br/>
-
 - 🌱 I’m currently learning to improve Python for Django & Flask.
 
 - 👨‍💻 All of my projects are available at [amand33p.github.io - my portfolio site](https://amand33p.github.io).
