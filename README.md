@@ -1,6 +1,8 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Amandeep Singh</h2>
 <h3>I'm software developer from India, currently specializing in development of SPAs with React/Vue.js and RESTful/GraphQL APIs in Node.js</h3>
 
+[![Visits Badge](https://badges.pufler.dev/visits/amand33p/amand33p)](https://badges.pufler.dev/visits/amand33p/amand33p)
+
 
 - 🌱 I’m currently learning Python for Django & Flask.
 
