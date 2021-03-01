@@ -1,15 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Amandeep Singh</h1>
 <h3 align="center">I'm software developer from India. I specialize in development of SPAs with React/Vue and RESTful/GraphQL APIs in Node.js</h3>
 
-<a href="https://twitter.com/amand33p_s">
-  <img align="left  alt="Amandeep Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/amand33p">
-  <img align="left  alt="Amandeeps LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.linkedin.com/in/amand33p">
-  <img align="left  width="22px" src="https://visitor-badge.glitch.me/badge?page_id=amand33p.amand33p" />
-</a>
+<p><a href="https://github.com/amand33p" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/amand33p_s" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/amand33p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 - 🌱 I’m currently learning **Python** for **Django** & **Flask**.
 
