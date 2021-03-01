@@ -1,15 +1,28 @@
 <h1 align="center">Hey there 👋, I'm Amandeep Singh</h1>
 <h3 align="center">I'm software developer from India. I specialize in development of SPAs with React/Vue and RESTful/GraphQL APIs in Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
+<p align="left">
+
+<a href="https://twitter.com/amand33p_s">
+  <img align="left" alt="Amandeep Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/amand33p">
+  <img align="left" alt="Amandeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=amand33p.amand33p)
+
+<br />
+
+</p>
 
 - 🌱 I’m currently learning **Python** for **Django** & **Flask**.
 
 - 👨‍💻 All of my projects are available at [amand33p.github.io - my portfolio site](https://amand33p.github.io).
 
-- 💬 Ask me about **React**, **Node.js** & in general, **JavaScript ecosystem**.
+- 💬 Ask me about **React**, **Node.js** & in general, about **JavaScript ecosystem**.
 
-- 📫 How to reach me **amandeep96x@gmail.com**
+- 📫 How to reach me: **amandeep96x@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -35,11 +48,4 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/amand33p_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amand33p_s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amand33p" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amand33p" height="30" width="40" /></a>
 </p>
