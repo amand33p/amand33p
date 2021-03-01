@@ -12,8 +12,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amand33p.amand33p)
 
-<br />
-
 </p>
 
 - 🌱 I’m currently learning **Python** for **Django** & **Flask**.
