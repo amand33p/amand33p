@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Amandeep Singh</h1>
 <h3 align="center">I'm software developer from India. I specialize in development of SPAs with React/Vue and RESTful/GraphQL APIs in Node.js</h3>
 
-<p align="left">
+<p align="center">
 
 <a href="https://twitter.com/amand33p_s">
   <img align="left" alt="Amandeep Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
