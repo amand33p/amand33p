@@ -4,13 +4,14 @@
 <p align="center">
 
 <a href="https://twitter.com/amand33p_s">
-  <img  alt="Amandeep Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left  alt="Amandeep Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amand33p">
-  <img  alt="Amandeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left  alt="Amandeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=amand33p.amand33p)
+<a href="https://www.linkedin.com/in/amand33p">
+  <img align="left  width="22px" src="https://visitor-badge.glitch.me/badge?page_id=amand33p.amand33p" />
+</a>
 
 </p>
 
