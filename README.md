@@ -1,19 +1,15 @@
 <h1 align="center">Hey there 👋, I'm Amandeep Singh</h1>
 <h3 align="center">I'm software developer from India. I specialize in development of SPAs with React/Vue and RESTful/GraphQL APIs in Node.js</h3>
 
-<p align="center">
-
 <a href="https://twitter.com/amand33p_s">
   <img align="left  alt="Amandeep Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amand33p">
-  <img align="left  alt="Amandeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left  alt="Amandeeps LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amand33p">
   <img align="left  width="22px" src="https://visitor-badge.glitch.me/badge?page_id=amand33p.amand33p" />
 </a>
-
-</p>
 
 - 🌱 I’m currently learning **Python** for **Django** & **Flask**.
 
