@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning Python for Django & Flask.
 
-- 👨‍💻 All of my projects are available at [amand33p.github.io - my portfolio site](https://amand33p.github.io).
-
 - 💬 Ask me about React, Node.js & in general, about JavaScript ecosystem.
 
 - 📫 How to reach me: **amandeep96x@gmail.com**
