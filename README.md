@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
 
 
-- 🌱 I’m currently learning Python for Django & Flask.
+- 🌱 I’m currently learning Vue.js.
+
+- 🌊 Things on my plate for later - Django, Flask.
 
 - 💬 Ask me about React, Node.js & in general, about JavaScript ecosystem.
 
