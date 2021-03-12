@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning more about Vue.js.
 
-- 🌊 Things on my plate for later - Django, Flask.
+- 🍽 Things on my plate for later - Django, Flask.
 
 - 💬 Ask me about React, Node.js & in general, about JavaScript ecosystem.
 
