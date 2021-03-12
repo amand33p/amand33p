@@ -52,5 +52,5 @@
 
 <h3>My Projects:</h3>
 <p>
-Check pinned repositories below. 👇
+Check the pinned repositories below. 👇
 </p>
