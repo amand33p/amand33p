@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
 
 
-- 🌱 I’m currently learning Vue.js.
+- 🌱 I’m currently learning more about Vue.js.
 
 - 🌊 Things on my plate for later - Django, Flask.
 
@@ -45,6 +45,12 @@
 
 </p>
 
-<h3>Where to find me:</h3>
+<h3>Where To Find Me:</h3>
+<p><a href="https://g</h3>
 <p><a href="https://github.com/amand33p" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/amand33p_s" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/amand33p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.reddit.com/u/aman_d33p" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+</p>
+
+<h3>My Projects:</h3>
+<p>
+Check pinned repositories below. 👇
 </p>
