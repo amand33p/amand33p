@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently looking for a job.
 
-- 🍽 Things on my plate for later - Django, Flask.
+- 🍽 Things on my plate for later - GoLang 
 
 - 👨‍💻 All of my projects are available at [amand33p.github.io - my portfolio site](https://amand33p.github.io).
 
