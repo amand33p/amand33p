@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning more about full-stack development.
 
-- 🍽 Things on my plate for later - GoLang, Java & more dive into DS/Algo.
+- 🍽 Things on my plate for later - GoLang, Java & dive more into DS/Algo.
 
 - 👨‍💻 All of my projects are available at [amand33p.github.io - my portfolio site](https://amand33p.github.io).
 
