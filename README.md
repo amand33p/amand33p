@@ -1,4 +1,4 @@
-<h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Amandeep Singh</h2>
+<h2>Hey there, I'm Amandeep</h2>
 <h3>I'm software developer from India, currently specialising in development of SPAs with React.js and its ecosystem.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
